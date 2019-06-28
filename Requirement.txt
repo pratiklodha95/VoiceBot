@@ -6,3 +6,8 @@ pip install pyaudio
 
 #For Windows
 
+
+
+
+pip install nltk
+pip install pyttsx3
